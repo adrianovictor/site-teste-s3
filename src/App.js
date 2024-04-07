@@ -11,7 +11,7 @@ function App() {
               <h3>A2S Soluções Digitais</h3>
             </div>
             <div className='item-menu'>
-              <a href='#'>Login</a>
+              <a href='http://institucional-teste.s3-website-sa-east-1.amazonaws.com/'>Login</a>
             </div>
           </div>
 
